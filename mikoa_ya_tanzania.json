@@ -1,0 +1,681 @@
+{
+    "mkoa": {
+        "arusha": {
+            "wilaya": {
+                "Arusha": {
+                    "halmashauri": ["Arusha Jiji"]
+
+                },
+                "Arumeru": {
+                    "halmashauri": ["Arusha DC", "Meru DC"]
+
+                },
+                "Ngorongoro": {
+                    "halmashauri": ["Ngorongoro DC"]
+
+                },
+                "Longido": {
+                    "halmashauri": ["Longido DC"]
+
+                },
+                "Monduli": {
+                    "halmashauri": ["Monduli DC"]
+
+                },
+                "Karatu": {
+                    "halmashauri": ["Karatu DC"]
+                }
+            }
+
+        },
+
+        "Dar es Salaam": {
+            "wilaya": {
+                "Kinondoni": {
+                    "halmashauri": ["Kinondoni MC"]
+
+                },
+                "Ilala": {
+                    "halmashauri": ["Dar es Salaam Jiji", "Ilala MC"]
+
+                },
+                "Temeke": {
+                    "halmashauri": ["Temeke MC"]
+
+                },
+
+                "Kigamboni": {
+                    "halmashauri": ["Kigamboni MC"]
+
+                },
+
+                "Ubungo": {
+                    "halmashauri": ["Ubungo MC"]
+
+                }
+
+
+            }
+        },
+
+
+
+
+        "Dodoma": {
+            "wilaya": {
+                "Chamwino": {
+                    "halmashauri": ["Chamwino DC"]
+
+                },
+                "Dodoma": {
+                    "halmashauri": ["Dodoma Jiji"]
+
+                },
+                "Chemba": {
+                    "halmashauri": ["Chemba DC"]
+
+                },
+
+                "Kondoa": {
+                    "halmashauri": ["Kondoa DC", "Kondoa Mji"]
+
+                },
+
+                "Bahi": {
+                    "halmashauri": ["Bahi DC"]
+
+
+                },
+
+                "Mpwapwa": {
+                    "halmashauri": ["Mpwapwa DC"]
+
+                },
+
+                "Kongwa": {
+                    "halmashauri": ["Kongwa DC"]
+
+                }
+
+
+            }
+        },
+        "Geita": {
+            "wilaya": {
+                "Bukombe": {
+                    "halmashauri": ["Bukombe DC"]
+
+                },
+                "Mbogwe": {
+                    "halmashauri": ["Mbogwe DC"]
+
+                },
+                "Nyang’wale": {
+                    "halmashauri": ["Nyang’wale DC"]
+
+                },
+
+                "Geita": {
+                    "halmashauri": ["Geita DC", "Geita Mji"]
+
+                },
+
+                "Chato": {
+                    "halmashauri": ["Chato DC"]
+
+                }
+            }
+        }
+    },
+
+
+    "Iringa": {
+        "wilaya": {
+            "Mufindi": {
+                "halmashauri": ["Mufindi DC", "Mafinga Mji"]
+
+            },
+            "Kilolo": {
+                "halmashauri": ["Kilolo DC"]
+
+            },
+            "Iringa": {
+                "halmashauri": ["Iringa DC", "Iringa MC"]
+
+            },
+
+            "Geita": {
+                "halmashauri": ["Geita DC", "Geita Mji"]
+
+            },
+
+            "Chato": {
+                "halmashauri": ["Chato DC"]
+
+            }
+        }
+    },
+
+    "Kagera": {
+        "wilaya": {
+            "Biharamulo": {
+                "halmashauri": ["Biharamulo DC"]
+
+            },
+            "Karagwe": {
+                "halmashauri": ["Karagwe DC"]
+
+            },
+            "Muleba": {
+                "halmashauri": ["Muleba DC"]
+
+            },
+
+            "Kyerwa": {
+                "halmashauri": ["Kyerwa DC"]
+
+            },
+
+            "Bukoba": {
+                "halmashauri": ["Bukoba DC", "Bukoba MC"]
+
+
+            },
+
+            "Ngara": {
+                "halmashauri": ["Ngara DC"]
+            },
+
+            "Missenyi": {
+                "halmashauri": ["Missenyi DC"]
+            }
+        }
+
+    },
+
+    "Katavi": {
+        "wilaya": {
+            "Mlele": {
+                "halmashauri": ["Mlele DC", "Mpimbwe DC"]
+
+            },
+            "Mpanda": {
+                "halmashauri": ["Mpanda MC", "Nsimbo DC"]
+
+            },
+            "Tanganyika": {
+                "halmashauri": ["Mpanda DC"]
+
+            }
+        }
+
+    },
+
+    "Kigoma": {
+        "wilaya": {
+            "Kigoma": {
+                "halmashauri": ["Kigoma DC", "Kigoma/Ujiji MC"]
+
+            },
+            "Kasulu": {
+                "halmashauri": ["Kasulu DC", "Kasulu TC"]
+
+            },
+            "Kakonko": {
+                "halmashauri": ["Kakonko DC"]
+
+
+            },
+            "Uvinza": {
+                "halmashauri": ["Uvinza DC"]
+
+
+            },
+            "Buhigwe": {
+                "halmashauri": ["Buhigwe DC"]
+
+
+            },
+            "Kibondo": {
+                "halmashauri": ["Kibondo DC"]
+
+            }
+        }
+
+    },
+
+    "Kilimanjaro": {
+        "wilaya": {
+            "Siha": {
+                "halmashauri": ["Siha DC"]
+
+            },
+            "Moshi": {
+                "halmashauri": ["Moshi MC", "Moshi DC"]
+
+            },
+            "Mwanga": {
+                "halmashauri": ["Mwanga DC"]
+            },
+            "Rombo": {
+                "halmashauri": ["Rombo DC"]
+            },
+            "Hai": {
+                "halmashauri": ["Hai DC"]
+            },
+            "Same": {
+                "halmashauri": ["Same DC"]
+
+            }
+        }
+
+    },
+
+    "Lindi": {
+        "wilaya": {
+            "Nachingwea": {
+                "halmashauri": ["Nachingwea DC"]
+
+            },
+            "Ruangwa": {
+                "halmashauri": ["Ruangwa DC"]
+
+            },
+            "Liwale": {
+                "halmashauri": ["Liwale DC"]
+            },
+            "Lindi": {
+                "halmashauri": ["Lindi MC", "Lindi DC"]
+            },
+            "Kilwa": {
+                "halmashauri": ["Kilwa DC"]
+
+            }
+        }
+
+    },
+
+    "Manyara": {
+        "wilaya": {
+            "Babati": {
+                "halmashauri": ["Babati TC", "Babati DC"]
+
+            },
+            "Mbulu": {
+                "halmashauri": ["Mbulu DC", "Mbulu Mji"]
+
+            },
+            "Hanang’": {
+                "halmashauri": ["Hanang’ DC"]
+            },
+            "Kiteto": {
+                "halmashauri": ["Kiteto DC"]
+            },
+            "Simanjiro": {
+                "halmashauri": ["Simanjiro DC"]
+
+            }
+        }
+    },
+
+    "Mara": {
+        "wilaya": {
+            "Rorya": {
+                "halmashauri": ["Rorya DC"]
+
+            },
+            "Serengeti": {
+                "halmashauri": ["Serengeti DC"]
+
+            },
+            "Bunda": {
+                "halmashauri": ["Bunda DC", "Bunda Mji"]
+            },
+            "Butiama": {
+                "halmashauri": ["Butiama DC"]
+            },
+            "Tarime": {
+                "halmashauri": ["Tarime DC", "Tarime Mji"]
+
+
+            },
+            "Musoma": {
+                "halmashauri": ["Musoma MC", "Musoma DC"]
+
+            }
+        }
+
+    },
+
+    "Mbeya": {
+        "wilaya": {
+            "Chunya": {
+                "halmashauri": ["Chunya DC"]
+
+            },
+            "Kyela": {
+                "halmashauri": ["Kyela DC"]
+
+            },
+            "Mbeya": {
+                "halmashauri": ["Mbeya DC", "Mbeya Jiji"]
+            },
+            "Rungwe": {
+                "halmashauri": ["Rungwe DC", "Busokelo DC"]
+            },
+            "Mbarali": {
+                "halmashauri": ["Mbarali DC"]
+
+
+            }
+        }
+
+    },
+
+    "Morogoro": {
+        "wilaya": {
+            "Gairo": {
+                "halmashauri": ["Gairo DC"]
+
+            },
+            "Kilombero": {
+                "halmashauri": ["Kilombero DC", "Ifakara Mji"]
+
+            },
+            "Mvomero": {
+                "halmashauri": ["Mvomero DC"]
+            },
+            "Morogoro": {
+                "halmashauri": ["Morogoro DC", "Morogoro MC"]
+            },
+            "Ulanga": {
+                "halmashauri": ["Ulanga DC"]
+
+
+
+            },
+            "Kilosa": {
+                "halmashauri": ["Kilosa DC"]
+
+
+
+            },
+            "Malinyi": {
+                "halmashauri": ["Malinyi DC"]
+
+
+            }
+        }
+    },
+
+
+    "Mtwara": {
+        "wilaya": {
+            "Newala": {
+                "halmashauri": ["Newala DC", "Newala TC"]
+            },
+            "Nanyumbu": {
+                "halmashauri": ["Nanyumbu DC"]
+
+            },
+            "Mtwara": {
+                "halmashauri": ["Mtwara MC", "Mtwara DC", "Nanyamba Mji"]
+            },
+            "Masasi": {
+                "halmashauri": ["Masasi DC", "Masasi Mji"]
+            },
+            "Tandahimba": {
+                "halmashauri": ["Tandahimba DC"]
+            }
+        }
+
+    },
+
+    "Mwanza": {
+        "wilaya": {
+            "Ilemela": {
+                "halmashauri": ["Ilemela MC"]
+            },
+            "Kwimba": {
+                "halmashauri": ["Kwimba DC"]
+            },
+            "Sengerema": {
+                "halmashauri": ["Sengerema DC", "Buchosa DC"]
+            },
+            "Nyamagana": {
+                "halmashauri": ["Mwanza Jiji"]
+            },
+            "Magu": {
+                "halmashauri": ["Magu DC"]
+
+            },
+            "Ukerewe": {
+                "halmashauri": ["Ukerewe DC"]
+
+            },
+            "Misungwi": {
+                "halmashauri": ["Misungwi DC"]
+            }
+        }
+    },
+
+    "Njombe": {
+        "wilaya": {
+            "Njombe": {
+                "halmashauri": ["Njombe DC", "Njombe Mji", "Makambako Mji"]
+            },
+            "Ludewa": {
+                "halmashauri": ["Ludewa DC"]
+            },
+            "Wanging’ombe": {
+                "halmashauri": ["Wanging’ombe DC"]
+            },
+            "Makete": {
+                "halmashauri": ["Makete DC"]
+            }
+        }
+
+    },
+
+    "Pwani": {
+        "wilaya": {
+            "Bagamoyo": {
+                "halmashauri": ["Njombe DC", "Njombe Mji", "Makambako Mji"]
+            },
+            "Mkuranga": {
+                "halmashauri": ["Ludewa DC"]
+            },
+            "Rufiji": {
+                "halmashauri": ["Wanging’ombe DC"]
+            },
+            "Mafia": {
+                "halmashauri": ["Makete DC"]
+
+            },
+            "Kibaha": {
+                "halmashauri": ["Kibaha DC", "Kibaha Mji"]
+
+            },
+            "Kisarawe": {
+                "halmashauri": ["Kisarawe DC"]
+            }
+        },
+        "Kibiti": {
+            "halmashauri": ["Kibiti DC"]
+
+        }
+    },
+
+    "Rukwa": {
+        "wilaya": {
+            "Sumbawanga": {
+                "halmashauri": ["Sumbawanga DC", "Sumbawanga MC"]
+            },
+            "Nkasi": {
+                "halmashauri": ["Nkasi DC"]
+            },
+            "Kalambo": {
+                "halmashauri": ["Kalambo DC"]
+            }
+        }
+
+    },
+
+    "Ruvuma": {
+        "wilaya": {
+            "Namtumbo": {
+                "halmashauri": ["Namtumbo DC"]
+            },
+            "Mbinga": {
+                "halmashauri": ["Mbinga DC", "Mbinga Mji"]
+
+            },
+            "Nyasa": {
+                "halmashauri": ["Nyasa DC"]
+
+            },
+            "Tunduru": {
+                "halmashauri": ["Tunduru DC"]
+
+            },
+            "Songea": {
+                "halmashauri": ["Songea MC", "Madaba DC", "Songea DC"]
+            }
+        }
+
+
+
+    },
+
+    "Shinyanga": {
+        "wilaya": {
+            "Kishapu": {
+                "halmashauri": ["Kishapu DC"]
+            },
+            "Kahama": {
+                "halmashauri": ["Kahama Mji", "Ushetu DC", "Msalala DC"]
+
+            },
+            "Shinyanga": {
+                "halmashauri": ["Shinyanga MC", "Shinyanga DC"]
+
+            }
+        }
+
+
+
+    },
+
+    "Simiyu": {
+        "wilaya": {
+            "Mkalama": {
+                "halmashauri": ["Mkalama DC"]
+            },
+            "Manyoni": {
+                "halmashauri": ["Manyoni DC", "Itigi DC"]
+
+            },
+            "Singida": {
+                "halmashauri": ["Singida MC", "Singida DC"]
+
+            },
+            "Ikungi": {
+                "halmashauri": ["Ikungi DC"]
+
+            },
+            "Iramba": {
+                "halmashauri": ["Iramba DC"]
+            }
+        }
+
+
+
+    },
+
+    "Songwe": {
+        "wilaya": {
+            "Songwe": {
+                "halmashauri": ["Songwe DC"]
+            },
+            "Ileje": {
+                "halmashauri": ["Ileje DC"]
+
+            },
+            "Mbozi": {
+                "halmashauri": ["Mbozi DC"]
+
+            },
+            "Momba": {
+                "halmashauri": ["Tunduma Mji", "Momba DC"]
+
+            }
+        }
+
+
+
+    },
+
+    "Tabora": {
+        "wilaya": {
+            "Nzega": {
+                "halmashauri": ["Nzega DC", "Nzega Mji"]
+            },
+            "Kaliua": {
+                "halmashauri": ["Kaliua DC"]
+
+            },
+            "Igunga": {
+                "halmashauri": ["Igunga DC"]
+
+            },
+            "Sikonge": {
+                "halmashauri": ["Sikonge DC"]
+            },
+            "Tabora": {
+                "halmashauri": ["Tabora MC"]
+
+
+            },
+            "Urambo": {
+                "halmashauri": ["Urambo DC"]
+            },
+            "Uyui": {
+                "halmashauri": ["Tabora/Uyui DC"]
+
+            }
+        }
+
+
+    },
+
+    "Tanga": {
+        "wilaya": {
+            "Tanga": {
+                "halmashauri": ["Nzega DC", "Nzega Mji"]
+            },
+            "Muheza": {
+                "halmashauri": ["Kaliua DC"]
+            },
+            "Mkinga": {
+                "halmashauri": ["Igunga DC"]
+            },
+            "Pangani": {
+                "halmashauri": ["Sikonge DC"]
+            },
+            "Handeni": {
+                "halmashauri": ["Handeni Mji", "Handeni DC"]
+            },
+            "Korogwe": {
+                "halmashauri": ["Korogwe Mji", "Korogwe DC"]
+            },
+            "Kilindi": {
+                "halmashauri": ["Kilindi DC"]
+            },
+            "Lushoto": {
+                "halmashauri": ["Lushoto DC", "Bumbuli DC"]
+            }
+        }
+
+
+    }
+}
